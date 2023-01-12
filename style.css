@@ -2,7 +2,10 @@
     width: 1000px;
     height: 600px;
     border: 5px solid rgb(0, 174, 255);
+    display: block !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
 }
 body{
-    text-align:center;
+    text-align:center !important;
 }
